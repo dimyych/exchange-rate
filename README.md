@@ -1,4 +1,4 @@
-# exchange-rate-5f65b.web.app -  робоча сторінка
+# https://exchange-rate-5f65b.web.app/ -  робоча сторінка
 
 
 

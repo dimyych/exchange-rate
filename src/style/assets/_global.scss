@@ -1,0 +1,21 @@
+body,
+a,
+button {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.app {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  position: relative;
+  & *{
+    transition: 1s all;
+
+  }
+  &.dark{
+    transition: 1s all;
+  }
+}
